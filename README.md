@@ -16,3 +16,6 @@ Gets URLs from **urlscan** by giving a curl command. This can be done shortly by
 
 Get input from a **ffuf** output for fuzzing virtual hosts, uses **httpx** to validate it, and provide a readable result in the terminal. 
 
+### caffeine-words.sh
+
+Extracts all words from a given file. It's helpful when creating wordlist from BurpSuite history to find parameters from web pages and JS files.
